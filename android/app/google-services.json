@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983797560048",
+    "firebase_url": "https://eitinaa-bbd73-default-rtdb.firebaseio.com",
+    "project_id": "eitinaa-bbd73",
+    "storage_bucket": "eitinaa-bbd73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983797560048:android:a4fb3ada5994e1a2c70835",
+        "android_client_info": {
+          "package_name": "com.example.cleaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983797560048-bi3ccphbsf1iqj4osjbv3cfupncrgg73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleaning",
+            "certificate_hash": "20942ae1fe5075cf16f095de2d422082ed96b23d"
+          }
+        },
+        {
+          "client_id": "983797560048-lgcho7bumsvb2dk5vb5gqrhfrk7o8h2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0o0CEDU0-Anj5kPrcb7lSeIEXvU5-0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983797560048-lgcho7bumsvb2dk5vb5gqrhfrk7o8h2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
