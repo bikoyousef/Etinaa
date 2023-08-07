@@ -15,3 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Etinaa
+Etinaa application is an application to help you organize and manage your daily home tasks and provide home assistance service to you in the simplest and fastest way.
+i used cubit design pattern with fire base api and google maps in this app .
